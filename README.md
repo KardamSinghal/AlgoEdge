@@ -1,6 +1,6 @@
 # 🛠️ AlgoEdge
 
-**Coder Buddy** is an AI-powered coding assistant built with [LangGraph](https://github.com/langchain-ai/langgraph).  
+**AlgoEdge** is an AI-powered coding assistant built with [LangGraph](https://github.com/langchain-ai/langgraph).  
 It works like a multi-agent development team that can take a natural language request and transform it into a complete, working project — file by file — using real developer workflows.
 
 ---
